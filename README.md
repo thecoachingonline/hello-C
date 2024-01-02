@@ -1,7 +1,7 @@
 # hello-c
 hello world C
 
-#Run
+# Run
 code hello.c
 make hello
 ./hello
